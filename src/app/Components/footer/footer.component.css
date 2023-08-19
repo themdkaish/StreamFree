@@ -1,0 +1,33 @@
+/* ... Previous CSS rules ... */
+
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-buttons {
+  margin-bottom: 15px;
+}
+
+.footer-button {
+  background-color: #ff6f00;
+  border: none;
+  border-radius: 20px;
+  padding: 6px 15px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fff;
+  margin: 0 10px;
+  transition: background-color 0.3s ease;
+}
+
+.footer-button:hover {
+  background-color: #ff8f00;
+}
+
+.credit {
+  font-size: 12px;
+  color: #ccc;
+}

@@ -1,0 +1,80 @@
+
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    background-color: #1a1a1a;
+    margin: 6px;
+    color: #fff;
+    border-radius: 24px;
+  }
+  
+  .movie-details {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    margin-top: 20px;
+    text-align : center;
+    color: #fff;
+  }
+  .movie-details {
+    text-align : left;
+  }
+  .movie-name{
+    text-align : center;
+  }
+  
+  .movie-image {
+    text-align: center;
+  }
+  
+  .movie-image img {
+    max-width: 100%;
+    text-align : center;
+    height: 500px;
+    width : 500px;
+  }
+  
+  .movie-info {
+    margin-top: 10px;
+  }
+  
+  .screenshots {
+    margin-top: 30px;
+  }
+  
+  .screenshot {
+    margin: 10px;
+  }
+  
+  .screenshot img {
+    max-width: 100%;
+    text-align : center;
+    height: auto;
+  }
+  
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-link:hover {
+    background-color: #0056b3;
+  }
+  #publish{
+    border : 1px white solid;
+  }
+  

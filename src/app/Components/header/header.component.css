@@ -1,0 +1,120 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Dark Theme Styles */
+.dark-theme {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.header {
+  background-color: #1f1f1f;
+  color: #ffffff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.logo {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.logout-btn {
+  background-color: #ff5722;
+  color: #ffffff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.trending-movies {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.view-all {
+  color: #03a9f4;
+  cursor: pointer;
+}
+
+.movie {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.cover img {
+  max-width: 100%;
+}
+
+.details {
+  margin-left: 10px;
+}
+
+
+/* Add more specific styling as needed */
+nav {
+  background-color: #333;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+nav ul li a:hover {
+  color: #ffcc00;
+}
+header h1 {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: red;
+  /* text-decoration: underline solid red; */
+}
+.search-bar {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  max-width: 500px;
+  margin: 0 20px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.search-button {
+  background-color: #ffc107;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #000;
+}

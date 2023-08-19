@@ -1,0 +1,55 @@
+<app-header></app-header>
+<br>
+<div class="header">
+  <div class="">
+  <div class = "centered-container">
+    <div class="movie-details">
+      <b><h1>Download {{movie.name}} {{movie.Release_year}} HDCAM-Rip Hindi Full {{movie.genre}} 480p [450MB] | 720p [1.2GB] | 1080p [4GB]</h1></b><hr>
+      
+      <p id = "publish">StreamFree is the best online platform for downloading Bollywood and Indian Movies and Series. We also provide south movies like Hindi Dubbed, Tamil, Telugu and Malayalam movies, and also, Punjabi, and other local movies. We provide direct G-Drive download link for fast and secure downloading. Click on the download button below and follow the steps to start download.</p>
+      <div class = "movie-details-2">
+        <div class = "Movie-name">Movie name : {{movie.name}}</div>
+        <div class = "Release-year">Release year : </div>
+        <div class = "Quality">Quality: 480p || 720p || 1080p </div>
+        <div class = "Size">
+          Size: 450MB || 1.2GB || 4GB</div>
+      </div>
+      <p>Download {{movie.name}} {{movie.Release_year}} HDCAM-Rip Hindi Full {{movie.genre}} 480p [450MB] | 720p [1.2GB] | 1080p [4GB]<p>
+      <div class="movie-image">
+          <b><p class="movie-description">{{movie.desc}}</p></b>
+        <img [src]="movie.cover" alt="Sorry For inconvenience The image is not availabe right now!!">
+      </div>
+      <div class="movie-info">
+        <h1 class="movie-name">{{movie.name}}</h1>
+      </div>
+    </div>
+
+    <div class="screenshots">
+      <h2>Screenshots:</h2>
+      <div class="screenshot">
+        <img [src]="movie.Screenshot1" alt="Screenshot 1">
+      </div>
+      <div class="screenshot">
+        <img [src]="movie.Screenshot2" alt="Screenshot 2">
+      </div>
+      <div class="screenshot">
+        <img [src]="movie.Screenshot3" alt="Screenshot 3">
+      </div>
+      
+      <div class="screenshot">
+        <img [src]="movie.Screenshot4" alt="Screenshot 3">
+      </div>
+    </div>
+    <p>Download in 480p</p>
+    <a href="{{movie.Download_link}}" class="button-link">Download {{movie.name}}</a>
+    <p>Download in 720p</p>
+    <a href="{{movie.Download_link}}" class="button-link">Download {{movie.name}}</a>
+    <p>Download in 1080p</p>
+    <a href="{{movie.Download_link}}" class="button-link">Download {{movie.name}}</a>
+    
+    
+    
+  </div>
+</div>
+</div>
+<!-- <app-footer></app-footer> -->

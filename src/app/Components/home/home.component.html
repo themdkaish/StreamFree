@@ -1,0 +1,28 @@
+<app-header></app-header>
+<br>
+<div class="homr-container">
+  <div class="all-movies">
+    <div class="trending-movies">
+      <div class="top">
+        <!-- <h4>Trending Movies</h4> -->
+      </div>
+      <!-- <div class="view-all">View All</div> -->
+    </div>
+    <div class="movie-thumbnail">
+      <div class="movie" *ngFor="let movies of trendingMovies">
+        <div class="cover" (click)="goToMovies('trending',movies.id)">
+          <img [src]="movies.cover" alt="Photo Not Available" />
+        </div>
+        <div class="details">
+          <!-- <b><div class="name">{{movies.name}}</div></b> -->
+          <div class = "desc" (click)="goToMovies('trending',movies.id)">Download {{movies.name}} (2023) HDCAM-Rip Hindi Full Movie 480p [450MB] | 720p [1.2GB] | 1080p [4GB] </div>
+          <!-- <div class="rating">IMDB Ratings :{{movies.imdbRating}}</div>
+          <div class="date">Release Date :{{movies.releaseDate}}</div> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="popular-movies"></div>
+</div>
+<!-- <app-footer></app-footer> -->
