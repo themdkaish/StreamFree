@@ -20,7 +20,7 @@ export class MovieComponent implements OnInit {
     this.type = this.route.snapshot.params['type'];
     this.id = this.route.snapshot.params['id'];
     if (this.type === 'trending') {
-      this.url = 'http://localhost:4200/assets/data/trending-movies.json';
+      this.url = '/assets/data/trending-movies.json';
     } 
     
     this.getMovie();
