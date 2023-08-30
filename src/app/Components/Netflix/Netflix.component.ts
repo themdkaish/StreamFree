@@ -2,23 +2,24 @@ import { Component, OnInit } from '@angular/core';
 import {HttpClient} from '@angular/common/http'
 import { Router } from '@angular/router';
 
+
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  selector: 'app-Netflix',
+  templateUrl: './Netflix.component.html',
+  styleUrls: ['./Netflix.component.css']
 })
-export class HomeComponent implements OnInit{
-  trendingMovies : any
+export class NetflixComponent implements OnInit {
+  netflixMovies : any
   constructor(private http:HttpClient, private router : Router){}
   ngOnInit(): void {
     this.getIndianMovies();
   }
   getIndianMovies() {
     this.http
-      .get('/assets/data/trending-movies.json')
+      .get('/assets/data/netflix-movies.json')
       .subscribe((movies) => {
-        this.trendingMovies = movies;
-        console.log(this.trendingMovies)
+        this.netflixMovies = movies;
+        console.log(this.netflixMovies)
       });
       }
   
