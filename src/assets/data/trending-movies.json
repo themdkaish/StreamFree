@@ -1,6 +1,62 @@
 [
   {
-    "id": 12,
+    "id": 18,
+    "name": " Akelli ",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/08/Akelli.jpg",
+    "rating": 3.45,
+    "Download_link" : "",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "https://imgbb.ink/ib/CmNbB3QG5l5XHrh_1693082598.jpg",
+    "Screenshot2" : "https://imgbb.ink/ib/slGukFKvqhfW7dZ_1693082598.jpg",
+    "Screenshot3" : "https://imgbb.ink/ib/IVfg3lNrUYcVfCU_1693082598.jpg",
+    "Screenshot4" : "https://imgbb.ink/ib/ghn6qpWVYcYBRXC_1693082598.jpg"
+    
+    
+  },{
+    "id": 17,
+    "name": "Bajao (Season 1)",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/08/Bajao.jpg",
+    "rating": 3.45,
+    "Download_link" : "https://gofile.io/d/MwitFe",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "https://v3img.voot.com/resizeMedium,w_960,h_360/v3Storage/assets/bajao_ep1_16x9-1692882961973.jpg",
+    "Screenshot2" : "",
+    "Screenshot3" : "",
+    "Screenshot4" : ""
+    
+    
+  },{
+    "id": 16,
+    "name": "Lakhan Leela Bhargava",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/08/Lakhan-Leela-Bhargava-2023.jpg",
+    "rating": 3.45,
+    "Download_link" : "https://vgmlinks.fun/thcmvj000321703/?token=MjRqaStKZyt4L0M2dWVWSHljVEFYamRobnFGaWxYR0V4ZmptU2lJeFB0Wk1KSWJwRGp0Y0ZTNzEzc0UzbEVlZE85WERRMDBHZ1l6MkZDNmgzTkxEN3dlQmg1Slp5MnpYU1BUNU1TNjgzRWlEb0R0c2k4THRaOVN0K0pDTWNSSGMrSncwcG9ZR2lJZ0UwMCtxSjgxVTNlVXhPa3Nac0tUM0cvem1VTDlFMllSMzlLNHRvNXExMVQxaTdaaVlLb3M1djRCeGdYMkF1eWk4bXFqVXNTVE5LVzFKTDlmL3NTa3NmbmpVRFlDRGlEZ3djeWFQZXFlVEFEdE9xSnFhMFFEK0c4OStzVGsyeWg2bk9QUzNmL09BSWxFNzQwU3RkZzlVa1REVnRtY2R5aHZ2dTRBM292MjdjOGxYaXdmdmZ3L0QvRXlVYXFHOWVHK3BVSXpnUnZXek9BPT0=",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "",
+    "Screenshot2" : "",
+    "Screenshot3" : "",
+    "Screenshot4" : ""
+    
+    
+  },{
+    "id": 15,
+    "name": "Bro  ",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/08/Bro.jpg  ",
+    "rating": 3.45,
+    "Download_link" : "https://wwwx3openergrantaccessofklii.instanttips.click/d/q2obnzt76uohr44kmfj5cwrqqnryu66fct76rptwg7kqyezxtitmcuqsjsqbybdkkxmnikhi/Bro.(2023).South.Hindi.Dubbed.UnCut.HEVC.720p.StreamFree.to.mkv",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "https://imgbb.ink/ib/7u522jbu77Fo3QQ_1692904642.jpg",
+    "Screenshot2" : "https://imgbb.ink/ib/5isZZhAE1ms5XNG_1692904642.jpg",
+    "Screenshot3" : "https://imgbb.ink/ib/ruCyWEoePK0aW4c_1692904642.jpg",
+    "Screenshot4" : "https://imgbb.ink/ib/O6aC8cHZ1XqdOif_1692904642.jpg"
+    
+    
+  },{
+    "id": 14,
     "name": "Dream Girl 2",
     "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ65kj439OUSduCSVdkVwQBSRprZO2W1_txKfgPKi7KTJDDo1L2",
     "rating": 3.45,
@@ -11,6 +67,22 @@
     "Screenshot2" : "https://imgbb.ink/ib/WG8DNnQALwNhLr5_1692963093.png",
     "Screenshot3" : "https://imgbb.ink/ib/EEoxWFxx9N3x1t0_1692963093.png",
     "Screenshot4" : "https://imgbb.ink/ib/gqqTK61Y1fGv0VW_1692964651.png"
+    
+    
+  },
+
+  {
+    "id": 13,
+    "name": "Aakhri Sach (Season 1)",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/08/Aakhri-Sach-2023.jpg",
+    "rating": 3.45,
+    "Download_link" : "https://vgmlinks.fun/thcmvj000322460/?token=MjRqaStKZyt4L0M2dWVWSHljVEFYamRobnFGaWxYR0V4ZmptU2lJeFB0Wk1KSWJwRGp0Y0ZTNzEzc0UzbEVlZE85WERRMDBHZ1l6MkZDNmgzTkxEN3dlQmg1Slp5MnpYU1BUNU1TNjgzRWlEb0R0c2k4THRaOVN0K0pDTWNSSGMrSncwcG9ZR2lJZ0UwMCtxSjgxVTNlVXhPa3Nac0tUM0cvem1VTDlFMllSMzlLNHRvNXExMVQxaTdaaVlLb3M1djRCeGdYMkF1eWk4bXFqVXNTVE5LVzFKTDlmL3NTa3NmbmpVRFlDRGlEZ3djeWFQZXFlVEFEdE9xSnFhMFFEK0FFOUlFTWtWdG53bFFYZkxGcFREb3hJaGZSS3ppYTZtTkFURDJLYWpDVytnVHR4ZWt0aDgxdGdiYWdMci9kclpiTEdCU3dvT0IyeU9taHRMdm5JeXhnPT0=",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "https://imgbb.ink/ib/fD56TbJnzK3h7Ac_1692903995.jpg",
+    "Screenshot2" : "https://imgbb.ink/ib/5sRVrlpwTd8Q1Gw_1692903995.jpg",
+    "Screenshot3" : "https://imgbb.ink/ib/tML5oQ0rnZMwPnF_1692903995.jpg",
+    "Screenshot4" : "https://imgbb.ink/ib/9DWqReMr01JuX0I_1692903995.jpg"
     
     
   },
@@ -144,7 +216,7 @@
   },{
     "id": 2,
     "name": "The Trial – Pyaar, Kaanoon, Dhokha (Season 1)",
-    "cover": "https://filmygallery.in/wp-content/uploads/2023/07/download.jpeg",
+    "cover": "https://dotmovies.icu/wp-content/uploads/2023/07/The-Trial-S01.jpg",
     "rating": 3.45,
     "Download_link" : "",
     "genre" : "Web-series",

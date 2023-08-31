@@ -12,6 +12,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { FooterComponent } from './Components/footer/footer.component';
 import {NetflixComponent} from './Components/Netflix/Netflix.component';
 
+
 // import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 // import {}
 
@@ -25,12 +26,14 @@ import {NetflixComponent} from './Components/Netflix/Netflix.component';
     FooterComponent,
     NetflixComponent,
     
+    
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
     HttpClientModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

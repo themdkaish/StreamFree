@@ -12,7 +12,8 @@ const routes: Routes = [
   {path : 'netflix' ,component : NetflixComponent},
   // {path : 'Download-page', component : DownloadPageComponent },
   { path: 'movie/:type/:id', component: MovieComponent },
-  {path : '**',component :LoginComponent}
+  {path : '**',component :LoginComponent},
+  
 
 
   
