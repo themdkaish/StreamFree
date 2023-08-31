@@ -10,7 +10,8 @@ import { MovieComponent } from './Components/movie/movie.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { FooterComponent } from './Components/footer/footer.component';
-import {NetflixComponent} from './Components/Netflix/Netflix.component'
+import {NetflixComponent} from './Components/Netflix/Netflix.component';
+import {DownloadPageComponent} from './Components/Download-page/Download-page.component'
 // import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 // import {}
 
