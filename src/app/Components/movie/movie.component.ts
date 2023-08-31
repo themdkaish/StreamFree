@@ -25,6 +25,7 @@ export class MovieComponent implements OnInit {
     
     this.getMovie();
   }
+  
 
   getMovie() {
     this.http.get(this.url).subscribe((movies) => {
