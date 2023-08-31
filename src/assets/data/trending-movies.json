@@ -1,5 +1,20 @@
 [
   {
+    "id": 12,
+    "name": "Dream Girl 2",
+    "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ65kj439OUSduCSVdkVwQBSRprZO2W1_txKfgPKi7KTJDDo1L2",
+    "rating": 3.45,
+    "Download_link" : "https://workerdevsimplelogicpoweredbyawsa.sonakshilohar.beauty/d/rgoftz376uohr44kmfj5aqjsqrihf3yppx6wbzbsq6gq4pacgq75bjsku4hms5a6lpa5cplo/Dream.Girl.2.2023.720p.V2-HDCAMRip.HIN.DUB.1XBET.StreamFree.to.mkv",
+    "genre" : "Movie",
+    "Release_year" : "2023",
+    "Screenshot1" : "https://imgbb.ink/ib/zaMi7tX4bHZ3yza_1692963093.png",
+    "Screenshot2" : "https://imgbb.ink/ib/WG8DNnQALwNhLr5_1692963093.png",
+    "Screenshot3" : "https://imgbb.ink/ib/EEoxWFxx9N3x1t0_1692963093.png",
+    "Screenshot4" : "https://imgbb.ink/ib/gqqTK61Y1fGv0VW_1692964651.png"
+    
+    
+  },
+  {
     "id": 11,
     "name": "Guns & Gulaabs",
     "cover": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3dw48hMSNDdNIRE4dO7S4ckVo8-01D_T464zMXw7XujkFhqKD",
@@ -155,4 +170,6 @@
     
     
   }
+
+  
 ]
