@@ -11,8 +11,9 @@ export class MovieComponent implements OnInit {
   type = '';
   id = '';
   url = '';
-  movies: any;
+  movies: any;  
   movie: any;
+  link: any;
 
   constructor(private route: ActivatedRoute, private http: HttpClient) {}
 
