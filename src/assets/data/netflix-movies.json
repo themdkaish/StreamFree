@@ -1,6 +1,22 @@
 [
   {
     "id": 11,
+    "name": "Jawan",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+    "rating": 3.45,
+    "Download_link" : "https://new9.gdtot.cfd/ddl",
+    "genre" : "Movies",
+    "Release_year" : "2023",
+    "Screenshot1" : "",
+    "Screenshot2" : "",
+    "Screenshot3" : "",
+    "Screenshot4" : ""
+    
+    
+  },
+  [
+  {
+    "id": 12,
     "name": "Guns & Gulaabs",
     "cover": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3dw48hMSNDdNIRE4dO7S4ckVo8-01D_T464zMXw7XujkFhqKD",
     "rating": 3.45,
@@ -14,4 +30,5 @@
     
     
   }
+]
 ]
